@@ -1,3 +1,1 @@
-# Python do DS ao Dev
-
-Scripts e materiais do curso oferecido pela Comunidade DS.
+# python_ds_ao_dev
